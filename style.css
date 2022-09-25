@@ -1,0 +1,21 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.mapouter {
+    position: relative;
+    text-align: center;
+    margin: 50px auto;
+    height: 422px;
+    width: 846px;
+}
+
+.gmap_canvas {
+    overflow: hidden;
+    background: none !important;
+    border: 2px solid rgb(145, 140, 140);
+    height: 422px;
+    width: 846px;
+}
